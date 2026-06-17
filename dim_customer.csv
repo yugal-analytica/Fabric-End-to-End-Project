@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Email,Region,City,Segment,JoinDate,IsActive
+C0001,Customer_C0001,contact_c0001@example.com,Southeast Asia,Kuala Lumpur,Startup,2021-02-13,true
+C0002,Customer_C0002,contact_c0002@example.com,Europe,Paris,Retail,2020-06-26,true
+C0003,Customer_C0003,contact_c0003@example.com,Middle East,Kuwait City,Startup,2020-07-02,true
+C0004,Customer_C0004,contact_c0004@example.com,Southeast Asia,Manila,Retail,2021-03-19,true
+C0005,Customer_C0005,contact_c0005@example.com,Africa,Nairobi,Government,2020-11-07,true
+C0006,Customer_C0006,contact_c0006@example.com,Middle East,Doha,Startup,2020-06-18,true
+C0007,Customer_C0007,contact_c0007@example.com,South Asia,Hyderabad,Government,2021-10-09,false
+C0008,Customer_C0008,contact_c0008@example.com,Middle East,Dubai,SMB,2022-05-20,true
+C0009,Customer_C0009,contact_c0009@example.com,Middle East,Dubai,Startup,2022-08-04,true
+C0010,Customer_C0010,contact_c0010@example.com,Middle East,Abu Dhabi,Retail,2020-04-15,true
+C0011,Customer_C0011,contact_c0011@example.com,Africa,Nairobi,Startup,2022-06-23,true
+C0012,Customer_C0012,contact_c0012@example.com,Europe,Rome,Enterprise,2020-12-26,true
+C0013,Customer_C0013,contact_c0013@example.com,Europe,Madrid,Enterprise,2022-05-08,true
+C0014,Customer_C0014,contact_c0014@example.com,Africa,Lagos,Retail,2020-10-19,true
+C0015,Customer_C0015,contact_c0015@example.com,Southeast Asia,Jakarta,Startup,2020-10-05,true
+C0016,Customer_C0016,contact_c0016@example.com,South Asia,Delhi,Retail,2022-06-26,true
+C0017,Customer_C0017,contact_c0017@example.com,Europe,Berlin,Enterprise,2022-09-02,true
+C0018,Customer_C0018,contact_c0018@example.com,Africa,Accra,Startup,2020-11-04,true
+C0019,Customer_C0019,contact_c0019@example.com,South Asia,Mumbai,SMB,2020-08-31,true
+C0020,Customer_C0020,contact_c0020@example.com,Europe,Madrid,SMB,2020-10-25,true
+C0021,Customer_C0021,contact_c0021@example.com,North America,Houston,Retail,2021-04-24,true
+C0022,Customer_C0022,contact_c0022@example.com,North America,Los Angeles,Startup,2020-05-28,true
+C0023,Customer_C0023,contact_c0023@example.com,Middle East,Dubai,SMB,2021-11-22,true
+C0024,Customer_C0024,contact_c0024@example.com,North America,Houston,Government,2022-03-01,true
+C0025,Customer_C0025,contact_c0025@example.com,Middle East,Dubai,Enterprise,2021-01-06,true
+C0026,Customer_C0026,contact_c0026@example.com,Africa,Johannesburg,SMB,2022-06-28,true
+C0027,Customer_C0027,contact_c0027@example.com,Africa,Nairobi,Enterprise,2021-09-28,true
+C0028,Customer_C0028,contact_c0028@example.com,Africa,Cairo,SMB,2021-03-23,true
+C0029,Customer_C0029,contact_c0029@example.com,Southeast Asia,Singapore,Government,2022-06-15,true
+C0030,Customer_C0030,contact_c0030@example.com,North America,New York,Retail,2022-10-27,true
+C0031,Customer_C0031,contact_c0031@example.com,North America,Houston,SMB,2022-12-28,true
+C0032,Customer_C0032,contact_c0032@example.com,North America,Houston,Government,2021-08-18,true
+C0033,Customer_C0033,contact_c0033@example.com,Middle East,Riyadh,Government,2021-08-01,true
+C0034,Customer_C0034,contact_c0034@example.com,Middle East,Kuwait City,SMB,2022-06-20,true
+C0035,Customer_C0035,contact_c0035@example.com,Europe,Berlin,Retail,2020-01-09,true
+C0036,Customer_C0036,contact_c0036@example.com,Europe,Paris,Government,2021-06-18,true
+C0037,Customer_C0037,contact_c0037@example.com,Africa,Nairobi,Retail,2022-04-16,true
+C0038,Customer_C0038,contact_c0038@example.com,South Asia,Mumbai,Startup,2022-10-24,true
+C0039,Customer_C0039,contact_c0039@example.com,Middle East,Doha,Startup,2020-12-08,true
+C0040,Customer_C0040,contact_c0040@example.com,Southeast Asia,Bangkok,Government,2021-06-24,true
+C0041,Customer_C0041,contact_c0041@example.com,Middle East,Kuwait City,SMB,2021-08-11,true
+C0042,Customer_C0042,contact_c0042@example.com,South Asia,Bangalore,Startup,2020-06-03,false
+C0043,Customer_C0043,contact_c0043@example.com,South Asia,Hyderabad,Retail,2021-09-05,true
+C0044,Customer_C0044,contact_c0044@example.com,Africa,Accra,Retail,2023-03-23,true
+C0045,Customer_C0045,contact_c0045@example.com,South Asia,Hyderabad,SMB,2022-03-27,true
+C0046,Customer_C0046,contact_c0046@example.com,North America,Los Angeles,Government,2020-09-24,true
+C0047,Customer_C0047,contact_c0047@example.com,Africa,Johannesburg,Startup,2022-05-06,true
+C0048,Customer_C0048,contact_c0048@example.com,Europe,Berlin,SMB,2021-05-27,true
+C0049,Customer_C0049,contact_c0049@example.com,Middle East,Abu Dhabi,Government,2021-01-11,true
+C0050,Customer_C0050,contact_c0050@example.com,Africa,Johannesburg,Enterprise,2020-12-13,true
+C0051,Customer_C0051,contact_c0051@example.com,Southeast Asia,Manila,Enterprise,2020-02-01,true
+C0052,Customer_C0052,contact_c0052@example.com,Southeast Asia,Singapore,Enterprise,2021-11-18,true
+C0053,Customer_C0053,contact_c0053@example.com,Middle East,Doha,Startup,2020-01-25,true
+C0054,Customer_C0054,contact_c0054@example.com,North America,Los Angeles,Startup,2020-10-05,true
+C0055,Customer_C0055,contact_c0055@example.com,Southeast Asia,Singapore,Retail,2020-04-07,true
+C0056,Customer_C0056,contact_c0056@example.com,Middle East,Doha,Government,2020-11-20,false
+C0057,Customer_C0057,contact_c0057@example.com,Southeast Asia,Bangkok,Enterprise,2021-01-21,true
+C0058,Customer_C0058,contact_c0058@example.com,North America,Chicago,Enterprise,2022-01-17,true
+C0059,Customer_C0059,contact_c0059@example.com,Europe,Rome,Retail,2020-12-21,true
+C0060,Customer_C0060,contact_c0060@example.com,Middle East,Dubai,SMB,2020-08-20,true
+C0061,Customer_C0061,contact_c0061@example.com,Europe,Rome,Enterprise,2020-06-26,true
+C0062,Customer_C0062,contact_c0062@example.com,Africa,Johannesburg,Retail,2020-12-07,true
+C0063,Customer_C0063,contact_c0063@example.com,Africa,Nairobi,Retail,2020-11-25,true
+C0064,Customer_C0064,contact_c0064@example.com,North America,Houston,Retail,2021-01-20,true
+C0065,Customer_C0065,contact_c0065@example.com,South Asia,Delhi,Startup,2022-10-13,true
+C0066,Customer_C0066,contact_c0066@example.com,South Asia,Delhi,Enterprise,2022-02-10,true
+C0067,Customer_C0067,contact_c0067@example.com,Europe,Rome,Startup,2022-06-28,true
+C0068,Customer_C0068,contact_c0068@example.com,South Asia,Delhi,Government,2020-12-06,true
+C0069,Customer_C0069,contact_c0069@example.com,North America,Toronto,Startup,2020-04-03,true
+C0070,Customer_C0070,contact_c0070@example.com,North America,Los Angeles,Enterprise,2020-09-28,true
+C0071,Customer_C0071,contact_c0071@example.com,Middle East,Doha,Enterprise,2021-08-17,true
+C0072,Customer_C0072,contact_c0072@example.com,South Asia,Mumbai,SMB,2021-12-25,true
+C0073,Customer_C0073,contact_c0073@example.com,North America,Chicago,Enterprise,2021-10-31,true
+C0074,Customer_C0074,contact_c0074@example.com,North America,Toronto,Startup,2021-04-09,true
+C0075,Customer_C0075,contact_c0075@example.com,Africa,Lagos,Government,2021-08-14,true
+C0076,Customer_C0076,contact_c0076@example.com,Africa,Nairobi,Startup,2020-12-22,true
+C0077,Customer_C0077,contact_c0077@example.com,South Asia,Delhi,Retail,2021-05-10,true
+C0078,Customer_C0078,contact_c0078@example.com,Middle East,Dubai,Enterprise,2022-06-09,true
+C0079,Customer_C0079,contact_c0079@example.com,South Asia,Delhi,SMB,2020-09-26,true
+C0080,Customer_C0080,contact_c0080@example.com,South Asia,Bangalore,Startup,2021-01-10,true
+C0081,Customer_C0081,contact_c0081@example.com,Europe,London,Startup,2020-03-13,true
+C0082,Customer_C0082,contact_c0082@example.com,Southeast Asia,Singapore,Startup,2020-12-05,true
+C0083,Customer_C0083,contact_c0083@example.com,Southeast Asia,Bangkok,Startup,2022-09-06,true
+C0084,Customer_C0084,contact_c0084@example.com,Middle East,Riyadh,Startup,2021-04-21,true
+C0085,Customer_C0085,contact_c0085@example.com,Africa,Lagos,Startup,2022-06-12,true
+C0086,Customer_C0086,contact_c0086@example.com,Europe,Paris,SMB,2022-08-31,true
+C0087,Customer_C0087,contact_c0087@example.com,Africa,Cairo,Startup,2020-12-09,true
+C0088,Customer_C0088,contact_c0088@example.com,Middle East,Kuwait City,SMB,2020-06-07,true
+C0089,Customer_C0089,contact_c0089@example.com,Europe,Madrid,Startup,2022-03-20,true
+C0090,Customer_C0090,contact_c0090@example.com,Europe,Berlin,Startup,2021-10-25,true
+C0091,Customer_C0091,contact_c0091@example.com,Europe,London,Enterprise,2020-03-01,true
+C0092,Customer_C0092,contact_c0092@example.com,North America,Los Angeles,Retail,2020-04-12,true
+C0093,Customer_C0093,contact_c0093@example.com,Africa,Cairo,Startup,2020-01-21,true
+C0094,Customer_C0094,contact_c0094@example.com,Europe,Berlin,SMB,2020-08-21,true
+C0095,Customer_C0095,contact_c0095@example.com,Europe,Berlin,Retail,2022-12-23,true
+C0096,Customer_C0096,contact_c0096@example.com,South Asia,Mumbai,SMB,2021-12-27,true
+C0097,Customer_C0097,contact_c0097@example.com,South Asia,Hyderabad,Retail,2020-02-06,true
+C0098,Customer_C0098,contact_c0098@example.com,Southeast Asia,Bangkok,SMB,2023-01-07,true
+C0099,Customer_C0099,contact_c0099@example.com,South Asia,Mumbai,SMB,2020-12-26,true
+C0100,Customer_C0100,contact_c0100@example.com,Middle East,Doha,Enterprise,2020-05-24,true
+C0101,Customer_C0101,contact_c0101@example.com,Africa,Johannesburg,Retail,2020-06-14,true
+C0102,Customer_C0102,contact_c0102@example.com,Middle East,Abu Dhabi,Retail,2023-02-19,true
+C0103,Customer_C0103,contact_c0103@example.com,North America,New York,Startup,2021-07-13,true
+C0104,Customer_C0104,contact_c0104@example.com,South Asia,Delhi,Retail,2021-06-30,true
+C0105,Customer_C0105,contact_c0105@example.com,North America,Chicago,SMB,2021-05-12,true
+C0106,Customer_C0106,contact_c0106@example.com,Southeast Asia,Manila,Startup,2020-02-04,true
+C0107,Customer_C0107,contact_c0107@example.com,South Asia,Hyderabad,Enterprise,2020-09-06,true
+C0108,Customer_C0108,contact_c0108@example.com,Africa,Johannesburg,Retail,2022-05-22,true
+C0109,Customer_C0109,contact_c0109@example.com,Europe,Rome,Enterprise,2022-12-30,true
+C0110,Customer_C0110,contact_c0110@example.com,Southeast Asia,Bangkok,Startup,2020-05-19,true
+C0111,Customer_C0111,contact_c0111@example.com,Southeast Asia,Kuala Lumpur,Startup,2021-11-24,true
+C0112,Customer_C0112,contact_c0112@example.com,South Asia,Mumbai,Enterprise,2023-02-27,true
+C0113,Customer_C0113,contact_c0113@example.com,Southeast Asia,Bangkok,Startup,2022-05-17,true
+C0114,Customer_C0114,contact_c0114@example.com,South Asia,Mumbai,SMB,2021-10-18,true
+C0115,Customer_C0115,contact_c0115@example.com,Africa,Lagos,Government,2020-01-27,true
+C0116,Customer_C0116,contact_c0116@example.com,North America,Los Angeles,Retail,2020-10-03,true
+C0117,Customer_C0117,contact_c0117@example.com,Africa,Johannesburg,Retail,2020-08-02,true
+C0118,Customer_C0118,contact_c0118@example.com,Southeast Asia,Kuala Lumpur,Enterprise,2020-07-16,true
+C0119,Customer_C0119,contact_c0119@example.com,Middle East,Doha,SMB,2021-05-27,true
+C0120,Customer_C0120,contact_c0120@example.com,Africa,Lagos,Startup,2020-03-12,true
+C0121,Customer_C0121,contact_c0121@example.com,North America,Houston,SMB,2022-03-12,true
+C0122,Customer_C0122,contact_c0122@example.com,Middle East,Abu Dhabi,Startup,2021-03-21,true
+C0123,Customer_C0123,contact_c0123@example.com,Southeast Asia,Jakarta,Retail,2022-10-21,true
+C0124,Customer_C0124,contact_c0124@example.com,Southeast Asia,Jakarta,SMB,2020-11-01,true
+C0125,Customer_C0125,contact_c0125@example.com,Europe,Rome,Startup,2021-04-15,true
+C0126,Customer_C0126,contact_c0126@example.com,Middle East,Dubai,Startup,2021-04-09,true
+C0127,Customer_C0127,contact_c0127@example.com,Europe,Rome,Retail,2020-01-01,true
+C0128,Customer_C0128,contact_c0128@example.com,Africa,Johannesburg,Enterprise,2023-04-04,false
+C0129,Customer_C0129,contact_c0129@example.com,South Asia,Hyderabad,Enterprise,2022-07-26,true
+C0130,Customer_C0130,contact_c0130@example.com,Europe,London,Retail,2021-05-09,true
+C0131,Customer_C0131,contact_c0131@example.com,Europe,Berlin,SMB,2021-09-27,true
+C0132,Customer_C0132,contact_c0132@example.com,Africa,Nairobi,Startup,2020-07-01,true
+C0133,Customer_C0133,contact_c0133@example.com,South Asia,Delhi,Government,2021-09-01,true
+C0134,Customer_C0134,contact_c0134@example.com,South Asia,Hyderabad,Government,2021-05-27,true
+C0135,Customer_C0135,contact_c0135@example.com,North America,Los Angeles,SMB,2021-12-13,false
+C0136,Customer_C0136,contact_c0136@example.com,North America,Toronto,SMB,2021-04-19,true
+C0137,Customer_C0137,contact_c0137@example.com,Africa,Accra,Government,2022-05-19,true
+C0138,Customer_C0138,contact_c0138@example.com,Middle East,Doha,SMB,2023-02-15,true
+C0139,Customer_C0139,contact_c0139@example.com,Middle East,Doha,Enterprise,2020-02-12,true
+C0140,Customer_C0140,contact_c0140@example.com,North America,Los Angeles,Government,2020-09-19,false
+C0141,Customer_C0141,contact_c0141@example.com,Middle East,Doha,Retail,2023-02-16,true
+C0142,Customer_C0142,contact_c0142@example.com,Europe,Rome,Enterprise,2021-11-04,true
+C0143,Customer_C0143,contact_c0143@example.com,North America,New York,Government,2021-12-03,true
+C0144,Customer_C0144,contact_c0144@example.com,Europe,London,Enterprise,2020-12-25,true
+C0145,Customer_C0145,contact_c0145@example.com,Southeast Asia,Manila,Government,2023-01-20,true
+C0146,Customer_C0146,contact_c0146@example.com,Africa,Johannesburg,Enterprise,2021-06-14,true
+C0147,Customer_C0147,contact_c0147@example.com,North America,Los Angeles,Retail,2020-05-09,true
+C0148,Customer_C0148,contact_c0148@example.com,South Asia,Bangalore,Retail,2022-03-10,true
+C0149,Customer_C0149,contact_c0149@example.com,Middle East,Dubai,Retail,2021-08-15,true
+C0150,Customer_C0150,contact_c0150@example.com,Europe,Paris,Retail,2020-09-22,true
+C0151,Customer_C0151,contact_c0151@example.com,Africa,Lagos,Startup,2023-01-27,true
+C0152,Customer_C0152,contact_c0152@example.com,Europe,Paris,Startup,2022-04-22,true
+C0153,Customer_C0153,contact_c0153@example.com,North America,Chicago,Government,2022-06-08,true
+C0154,Customer_C0154,contact_c0154@example.com,North America,New York,SMB,2022-10-04,true
+C0155,Customer_C0155,contact_c0155@example.com,South Asia,Hyderabad,SMB,2021-09-09,true
+C0156,Customer_C0156,contact_c0156@example.com,South Asia,Delhi,Enterprise,2022-07-18,true
+C0157,Customer_C0157,contact_c0157@example.com,Middle East,Riyadh,Startup,2021-12-28,true
+C0158,Customer_C0158,contact_c0158@example.com,South Asia,Mumbai,Enterprise,2021-03-18,true
+C0159,Customer_C0159,contact_c0159@example.com,Africa,Accra,Government,2022-07-27,true
+C0160,Customer_C0160,contact_c0160@example.com,South Asia,Delhi,Startup,2020-04-01,true
+C0161,Customer_C0161,contact_c0161@example.com,Africa,Johannesburg,SMB,2021-01-12,true
+C0162,Customer_C0162,contact_c0162@example.com,Middle East,Abu Dhabi,Startup,2021-08-13,false
+C0163,Customer_C0163,contact_c0163@example.com,Africa,Lagos,Enterprise,2021-09-09,true
+C0164,Customer_C0164,contact_c0164@example.com,Africa,Nairobi,Government,2023-03-12,true
+C0165,Customer_C0165,contact_c0165@example.com,Southeast Asia,Bangkok,Startup,2021-08-05,true
+C0166,Customer_C0166,contact_c0166@example.com,Europe,London,Startup,2021-11-06,true
+C0167,Customer_C0167,contact_c0167@example.com,Middle East,Riyadh,Retail,2022-04-29,true
+C0168,Customer_C0168,contact_c0168@example.com,North America,Houston,Government,2020-06-11,true
+C0169,Customer_C0169,contact_c0169@example.com,Africa,Cairo,Government,2021-09-13,false
+C0170,Customer_C0170,contact_c0170@example.com,Europe,London,SMB,2021-05-27,true
+C0171,Customer_C0171,contact_c0171@example.com,Africa,Lagos,Startup,2020-11-22,true
+C0172,Customer_C0172,contact_c0172@example.com,North America,Chicago,Government,2021-10-21,true
+C0173,Customer_C0173,contact_c0173@example.com,Europe,Berlin,SMB,2022-02-06,false
+C0174,Customer_C0174,contact_c0174@example.com,Middle East,Abu Dhabi,Retail,2022-08-09,true
+C0175,Customer_C0175,contact_c0175@example.com,Southeast Asia,Jakarta,Retail,2020-12-29,true
+C0176,Customer_C0176,contact_c0176@example.com,Africa,Accra,Startup,2020-04-08,true
+C0177,Customer_C0177,contact_c0177@example.com,Africa,Accra,Government,2020-11-10,true
+C0178,Customer_C0178,contact_c0178@example.com,South Asia,Hyderabad,Government,2021-11-07,true
+C0179,Customer_C0179,contact_c0179@example.com,North America,Los Angeles,Enterprise,2020-05-11,true
+C0180,Customer_C0180,contact_c0180@example.com,Africa,Nairobi,SMB,2022-03-02,true
+C0181,Customer_C0181,contact_c0181@example.com,Africa,Johannesburg,Retail,2021-04-16,true
+C0182,Customer_C0182,contact_c0182@example.com,South Asia,Mumbai,Government,2020-06-25,true
+C0183,Customer_C0183,contact_c0183@example.com,Africa,Cairo,Retail,2022-06-15,true
+C0184,Customer_C0184,contact_c0184@example.com,Europe,Rome,Startup,2022-05-27,true
+C0185,Customer_C0185,contact_c0185@example.com,Southeast Asia,Jakarta,SMB,2021-07-21,true
+C0186,Customer_C0186,contact_c0186@example.com,Europe,Madrid,Retail,2023-03-10,true
+C0187,Customer_C0187,contact_c0187@example.com,Europe,Madrid,Government,2022-06-28,true
+C0188,Customer_C0188,contact_c0188@example.com,Africa,Accra,Startup,2022-09-24,true
+C0189,Customer_C0189,contact_c0189@example.com,Middle East,Abu Dhabi,Enterprise,2022-08-08,true
+C0190,Customer_C0190,contact_c0190@example.com,Africa,Johannesburg,Enterprise,2021-01-29,true
+C0191,Customer_C0191,contact_c0191@example.com,South Asia,Hyderabad,Retail,2022-06-11,true
+C0192,Customer_C0192,contact_c0192@example.com,Africa,Nairobi,Enterprise,2020-09-15,true
+C0193,Customer_C0193,contact_c0193@example.com,Middle East,Abu Dhabi,Enterprise,2023-01-12,true
+C0194,Customer_C0194,contact_c0194@example.com,Middle East,Riyadh,SMB,2020-10-01,true
+C0195,Customer_C0195,contact_c0195@example.com,North America,New York,Enterprise,2021-12-09,true
+C0196,Customer_C0196,contact_c0196@example.com,Europe,London,SMB,2021-01-29,true
+C0197,Customer_C0197,contact_c0197@example.com,Europe,Paris,Enterprise,2022-11-24,true
+C0198,Customer_C0198,contact_c0198@example.com,North America,Houston,Retail,2021-12-22,true
+C0199,Customer_C0199,contact_c0199@example.com,North America,Los Angeles,Enterprise,2021-08-21,true
+C0200,Customer_C0200,contact_c0200@example.com,South Asia,Delhi,Enterprise,2023-04-06,true

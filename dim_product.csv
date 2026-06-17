@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,UnitPrice,Supplier,IsActive
+P001,Laptop,Electronics,1936.31,SupplierD,true
+P002,Smartphone,Electronics,123.78,SupplierA,true
+P003,Tablet,Electronics,861.34,SupplierC,true
+P004,Headphones,Electronics,708.47,SupplierE,true
+P005,Smartwatch,Electronics,2222.59,SupplierA,true
+P006,Camera,Electronics,2046.26,SupplierB,true
+P007,Speaker,Electronics,2681.93,SupplierD,true
+P008,Monitor,Electronics,306.47,SupplierC,true
+P009,Keyboard,Electronics,1294.67,SupplierA,true
+P010,Mouse,Electronics,137.9,SupplierA,true
+P011,T-Shirt,Clothing,694.98,SupplierE,true
+P012,Jeans,Clothing,1540.8,SupplierD,true
+P013,Jacket,Clothing,128.28,SupplierD,true
+P014,Dress,Clothing,636.57,SupplierB,true
+P015,Shoes,Clothing,1967.16,SupplierD,true
+P016,Hoodie,Clothing,1657.58,SupplierB,true
+P017,Shorts,Clothing,700.3,SupplierB,true
+P018,Socks,Clothing,1788.33,SupplierC,true
+P019,Hat,Clothing,2437.82,SupplierE,true
+P020,Belt,Clothing,69.17,SupplierD,true
+P021,Sofa,Home,2427.17,SupplierD,true
+P022,Dining Table,Home,2109.51,SupplierD,true
+P023,Lamp,Home,1053.74,SupplierE,true
+P024,Curtains,Home,508.66,SupplierD,true
+P025,Rug,Home,2873.78,SupplierD,true
+P026,Pillow,Home,1042.95,SupplierD,true
+P027,Blanket,Home,323.6,SupplierA,true
+P028,Shelf,Home,335.31,SupplierB,true
+P029,Mirror,Home,2550.11,SupplierC,true
+P030,Vase,Home,1830.99,SupplierA,true
+P031,Running Shoes,Sports,2431.03,SupplierB,true
+P032,Yoga Mat,Sports,2202.71,SupplierB,true
+P033,Dumbbells,Sports,1631.87,SupplierB,true
+P034,Cycling Helmet,Sports,2920.69,SupplierB,true
+P035,Tennis Racket,Sports,1166.68,SupplierC,true
+P036,Football,Sports,1678.52,SupplierD,true
+P037,Basketball,Sports,2496.74,SupplierC,true
+P038,Swimming Goggles,Sports,1874.63,SupplierD,true
+P039,Skipping Rope,Sports,2592.04,SupplierD,true
+P040,Water Bottle,Sports,1753.19,SupplierB,true
+P041,Python Programming,Books,2128.49,SupplierB,true
+P042,Data Engineering,Books,185.18,SupplierC,true
+P043,SQL Mastery,Books,722.3,SupplierB,true
+P044,Cloud Computing,Books,903.69,SupplierB,true
+P045,Machine Learning,Books,285.39,SupplierD,true
+P046,Business Analytics,Books,736.73,SupplierC,true
+P047,Leadership,Books,347.95,SupplierD,true
+P048,Finance 101,Books,870.02,SupplierB,true
+P049,History of AI,Books,1925.27,SupplierD,true
+P050,Design Thinking,Books,1126.25,SupplierA,true

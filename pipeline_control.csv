@@ -1,0 +1,5 @@
+table_name,source_folder,target_table,is_active,last_loaded_date
+fact_sales,Files/raw/reference/,BronzeLakehouse.fact_sales_raw,true,2024-05-31
+dim_customer,Files/raw/reference/,BronzeLakehouse.dim_customer_raw,true,2024-05-31
+dim_product,Files/raw/reference/,BronzeLakehouse.dim_product_raw,true,2024-05-31
+dim_date,Files/raw/reference/,BronzeLakehouse.dim_date_raw,true,2024-05-31
